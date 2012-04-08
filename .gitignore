@@ -1,0 +1,14 @@
+/target/*
+**/target/*
+
+**/*.ec
+**/*.ipr
+**/*.iml
+**/*.iws
+**/*.classpath
+**/*.project
+**/*.settings
+**/*.class
+.project
+.settings
+.classpath
